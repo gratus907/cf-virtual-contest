@@ -1,0 +1,1 @@
+# cf-virtual-contest
